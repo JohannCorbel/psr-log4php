@@ -1,5 +1,5 @@
 {
-  "jc-name": "abacaphiliac/psr-log4php",
+  "name": "jc-abacaphiliac/psr-log4php",
   "description": "A PSR-3-compliant log4php-wrapper.",
   "license": "MIT",
   "authors": [
