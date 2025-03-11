@@ -38,7 +38,7 @@
   },
   "config": {
     "github-protocols": ["https"]
-  }  
+  },
   "autoload": {
     "psr-4": {
       "Abacaphiliac\\PsrLog4Php\\": "src/PsrLog4Php"
